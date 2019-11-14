@@ -1,0 +1,1 @@
+"My list of messages" => [Dict("content" => m.content) for m in @vars(:messages)]
